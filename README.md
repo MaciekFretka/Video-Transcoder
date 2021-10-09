@@ -65,7 +65,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Use this app for greatly reduce size of yours video files.
 If you have a big library of videos in .mp4 extensions, you can save considerably disc space.
