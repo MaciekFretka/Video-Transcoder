@@ -67,7 +67,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+Use this app for greatly reduce size of yours video files.
+If you have a big library of videos in .mp4 extensions, you can save considerably disc space.
+ 
+ App works by transcoding video files from standard h.264 to standard h.265
+ H.264 standard is more poopular, by new h.265 use more advanced algorhitms, making possible to halved video size, without loss of quality
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
