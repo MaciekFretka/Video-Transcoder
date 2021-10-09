@@ -77,7 +77,7 @@ If you have a big library of videos in .mp4 extensions, you can save considerabl
 * [Java 11](https://docs.oracle.com/en/java/javase/11/)
 * [JavaFX](https://openjfx.io/)
 * [C](https://en.cppreference.com/w/c/language)
-* [FFmpeg](https://ffmpeg.org/documentation.html/)
+* [FFmpeg](https://ffmpeg.org/documentation.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
