@@ -78,14 +78,10 @@ If you have a big library of videos in .mp4 extensions, you can save considerabl
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Java 11](https://docs.oracle.com/en/java/javase/11/)
+* [JavaFX](https://openjfx.io/)
+* [C](https://en.cppreference.com/w/c/language)
+* [FFmpeg](https://ffmpeg.org/documentation.html/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
