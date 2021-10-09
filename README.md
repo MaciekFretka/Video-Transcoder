@@ -124,9 +124,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 Check video demo:
-                                 <a href=https://www.youtube.com/watch?v=-SRVXHB-ks0&ab_channel=MaciejJaro%C5%84ski">View Demo</a>
+                                 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+  <p align="center">
+    <br />
+    <a href=https://www.youtube.com/watch?v=-SRVXHB-ks0&ab_channel=MaciejJaro%C5%84ski">View Demo</a>
+
+  </p>
 
 
 
