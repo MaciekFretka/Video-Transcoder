@@ -25,7 +25,7 @@
 <h3 align="center">Video transcoder App</h3>
 
   <p align="center">
-    project_description
+    Simple video transcoder (h.264 to h.265)
     <br />
     <a href=https://www.youtube.com/watch?v=-SRVXHB-ks0&ab_channel=MaciejJaro%C5%84ski">View Demo</a>
 
