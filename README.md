@@ -108,15 +108,15 @@ If you want run app by docker container you need to install docker on your compu
 1. Clone the 'jar-release' branch
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone --single-branch --branch jar-release https://github.com/MaciekFretka/Video-Transcoder.git
    ```
-3. Install NPM packages
+3. Go into 'Video-Transcoder' folder
    ```sh
-   npm install
+   cd Video-Transcoder
    ```
-4. Enter your API in `config.js`
+4. Open java jar file `
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   java -jar VideoTranscoder.jar
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
