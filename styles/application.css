@@ -1,0 +1,68 @@
+.button{
+        -fx-background-color: 
+        #090a0c,
+        linear-gradient(#38424b 0%, #1f2429 20%, #191d22 100%),
+        linear-gradient(#20262b, #191d22),
+        radial-gradient(center 50% 0%, radius 100%, rgba(114,131,148,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+        /* 3:, 4: */
+        -fx-background-color: linear-gradient(#333 0%, #777 25%, #aaa 75%, #eee 100%);
+        -fx-text-fill: white; /* 5 */
+    }
+    .list-cell { -fx-text-fill: black; /* 5 */ }
+    .list-cell:odd { -fx-background-color: white; /* 1 */ }
+    .list-cell:even { -fx-background-color: rgb(207, 45, 140); /* for information */ }
+    .list-cell:filled:hover { 
+        -fx-background-color: rgb(190, 31, 137); /* 2 */
+        -fx-text-fill: white; /* 5 */
+    }
+
+  
+.progress-bar > .bar {
+    -fx-alignment: center ;
+        -fx-background-color: linear-gradient(
+            from 0px .75em to .75em 0px,
+            repeat,
+            -fx-accent 0%,
+            -fx-accent 49%,
+            derive(-fx-accent, 30%) 50%,
+            derive(-fx-accent, 30%) 99%
+        );
+    }
+#convertButton{
+    -fx-alignment: center ;
+    -fx-padding: 10 ;
+}
+#plButton{
+        -fx-graphic: "pl.png";
+        -fx-content-display: graphic-only;
+}
+#enButton{
+        -fx-graphic: "en.png";
+        -fx-content-display: graphic-only;
+}
+#sizeLabel{
+        -fx-font-size: 32px;
+        -fx-font-familly: "Arial Black";
+        -fx-fill: #722f83;
+        -fx-effect: innershadow(three-pass-box, rgba(0,0,0,0.7), 6, 0.0, 0 , 2 );
+}
+#finishLabel{
+    -fx-font-size: 32px;
+        -fx-font-familly: "Brush Script MT";
+        -fx-fill: #722f83;
+        -fx-effect: innershadow(three-pass-box, rgba(205, 69, 218, 0.747), 6, 0.0, 0 , 2 );
+}
+#mainPane{
+        -fx-background-color:#111111;
+}
